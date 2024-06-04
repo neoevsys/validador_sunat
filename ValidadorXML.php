@@ -1,10 +1,10 @@
 <?php
 // Definir las rutas a los archivos
-$xmlFile = '20605446788-01-F001-00000595.xml';
+$xmlFile = '20605446788-01-F002-00000031.xml';
 $xslFile = 'contenido/commons/xsl/ValidaExprRegFactura-2.0.1.xsl';
 $saxonJar = 'saxon/saxon-he-12.4.jar';
 $paramName = 'nombreArchivoEnviado';
-$paramValue = '20605446788-01-F001-00000595.xml';
+$paramValue = '20605446788-01-F002-00000031.xml';
 
 // Construir el comando para ejecutar Saxon-HE
 $command = "java -jar " . escapeshellarg($saxonJar) . " -s:" . escapeshellarg($xmlFile) . " -xsl:" . escapeshellarg($xslFile) . " " . escapeshellarg($paramName) . "=" . escapeshellarg($paramValue);

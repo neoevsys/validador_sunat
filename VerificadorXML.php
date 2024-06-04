@@ -39,7 +39,7 @@ function parseErrorLine($line) {
 }
 
 // Archivo XML y XSD
-$xmlFile = '20605446788-01-F001-00000595.xml';
+$xmlFile = '20605446788-01-F002-00000031.xml';
 $xsdFile = './contenido/maindoc/UBL-Invoice-2.1.xsd';
 
 // Validar el XML
