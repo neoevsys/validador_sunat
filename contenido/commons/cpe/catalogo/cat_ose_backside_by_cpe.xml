@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+    <cpe id="01"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">FACTURA</cpe>
+
+    <cpe id="03"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="26">BOLETA</cpe>
+
+    <cpe id="07"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">
+        NOTA_CREDITO
+    </cpe>
+
+    <cpe id="08"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">
+        NOTA_DEBITO
+    </cpe>
+
+    <cpe id="14"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante" mqSelector="SELECTOR.CPE_FACTURA"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">SERVICIOS_PUBLICOS</cpe>
+
+
+    <!--
+        Se elimina por pase PAS20171U210300055 
+        cpe id="RC" ubl="2.0" customizationID="1.0"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/resumen/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        proceso="26">RESUMEN_BOLETAS</cpe -->
+
+    <cpe id="RC" ubl="2.0" customizationID="1.1"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-itresumendiario" servlet="/resumen/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="26">RESUMEN_BOLETAS</cpe>
+
+    <cpe id="RA" ubl="2.0" customizationID="1.0"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        context="/ol-ti-iacpfegem" servlet="/resumen/comprobante">RESUMEN_ANULADOS</cpe>
+
+
+    <cpe id="20"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-itemision-otroscpe"
+        backupContext="/ol-ti-itemision-otroscpe"
+        context="/ol-ti-itemision-otroscpe" servlet="/retencion/comprobante">RETENCION</cpe>
+        
+    <cpe id="40"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-itemision-otroscpe"
+        backupContext="/ol-ti-itemision-otroscpe"
+        context="/ol-ti-itemision-otroscpe" servlet="/percepcion/comprobante">PERCEPCION</cpe>
+        
+    <cpe id="41"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-itemision-otroscpe"
+        backupContext="/ol-ti-itemision-otroscpe"
+        context="/ol-ti-itemision-otroscpe" servlet="/percepcion/comprobante">PERCEPCION</cpe>
+    <!-- es resumen -->
+    <cpe id="RR"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-itemision-otroscpe"
+        backupContext="/ol-ti-itemision-otroscpe"
+        context="/ol-ti-itemision-otroscpe" servlet="/resumen/comprobante">RESUMEN</cpe>
+
+    <cpe id="09"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-itemision-guia-gem"
+        backupContext="/ol-ti-itemision-guia-gem"
+        context="/ol-ti-itemision-guia-gem" servlet="/guia/comprobante">GUIA_REMITENTE</cpe>
+
+    <cpe id="31"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        contextTicket="/ol-ti-itemision-guia-gem"
+        backupContext="/ol-ti-itemision-guia-gem"
+        context="/ol-ti-itemision-guia-gem" servlet="/guia/comprobante">GUIA_TRANSPORTISTA</cpe>
+
+    <cpe id="LT"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"        
+        context="/ol-ti-iacpfegem" servlet="/lotes/comprobante">ENVIO LOTES FACTURA</cpe>
+        
+    <cpe id="30"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">ADQUIRIENTE_OTRAS</cpe>
+        
+    <cpe id="34"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">OPERADOR</cpe>
+        
+    <cpe id="42"
+        server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG"
+        context="/ol-ti-iacpfegem" servlet="/factura/comprobante"
+        contextTicket="/ol-ti-iacpfegem"
+        backupContext="/ol-ti-iacpfegem"
+        proceso="25">ADQUIRIENTE</cpe>
+
+</l>

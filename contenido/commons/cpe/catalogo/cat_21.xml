@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01">NUMERACION DAM</c>
+<c id="02">NUMERO DE ORDEN DE ENTREGA</c>
+<c id="03">NUMERO SCOP</c>
+<c id="04">NUMERO DE MANIFIESTO DE CARGA</c>
+<c id="05">NUMERO DE CONSTANCIA DE DETRACCION</c>
+<c id="06">OTROS</c>
+</l>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+    <c id="L001" tipo="1">AT</c>
+    <c id="L002" tipo="1">MT2</c>
+    <c id="L003" tipo="1">MT3</c>
+    <c id="L004" tipo="1">MT4</c>
+    <c id="L005" tipo="1">BT2</c>
+    <c id="L006" tipo="1">BT3</c>
+    <c id="L007" tipo="1">BT4</c>
+    <c id="L008" tipo="1">BT5A</c>
+    <c id="L009" tipo="1">BT5B</c>
+    <c id="L010" tipo="1">BT6</c>
+    <c id="L011" tipo="1">BT5C-AP</c>
+    <c id="L012" tipo="1">BT5D</c>
+    <c id="L013" tipo="1">BT5E</c>
+    <c id="L014" tipo="1">BT7</c>
+    <c id="L015" tipo="1">BT8</c>
+    <c id="A011" tipo="2">COMERCIAL</c>
+    <c id="A012" tipo="2">INDUSTRIAL</c>
+    <c id="A013" tipo="2">ESTATAL</c>
+    <c id="A014" tipo="2">DOMESTICO</c>
+    <c id="A015" tipo="2">SOCIAL</c>   
+    <c id="A016" tipo="2">MULTIFAMILIAR INDIVIDUALIZADO</c>
+    <c id="A017" tipo="2">MULTIFAMILIAR NO INDIVIDUALIZADO</c>
+    <c id="G001" tipo="3">CAT-A1</c>
+    <c id="G002" tipo="3">CAT-A2</c>
+    <c id="G003" tipo="3">CAT-B</c>
+    <c id="G004" tipo="3">CAT-C</c>
+    <c id="G005" tipo="3">CAT-D</c>
+    <c id="G006" tipo="3">CAT-E</c>
+    <c id="G007" tipo="3">CAT-GE</c>
+    <c id="G008" tipo="3">CAT-IP</c>
+    <c id="G009" tipo="3">CAT-GNV</c>
+</l>

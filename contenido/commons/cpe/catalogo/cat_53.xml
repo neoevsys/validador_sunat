@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE l>
+<!-- catalogo de impuesto-->
+<l>
+<c id="00" item="si" global="no">Descuentos que afectan la base imponible del IGV/IVAP</c>
+<c id="01" item="si" global="no">Descuentos que no afectan la base imponible del IGV/IVAP</c>
+<c id="02" item="no" global="si">Descuentos globales que afectan la base imponible del IGV/IVAP</c>
+<c id="03" item="no" global="si">Descuentos globales que no afectan la base imponible del IGV/IVAP</c>
+<c id="04" item="no" global="si">Descuentos globales por anticipos que afectan la base imponible del IGV/IVAP</c>
+<c id="05" item="no" global="si">Descuentos globales por anticipos exonerados</c>
+<c id="06" item="no" global="si">Descuentos globales por anticipos inafectos</c>
+<c id="20" item="no" global="si">Anticipos de ISC</c>
+<c id="45" item="no" global="si">FISE</c>
+<c id="46" item="no" global="si">Recargo al consumo y/o propinas</c>
+<c id="47" item="si" global="no">Cargos que afectan la base imponible del IGV</c>
+<c id="48" item="si" global="no">Cargos que no afectan la base imponible del IGV</c>
+<c id="49" item="no" global="si">Cargos globales que afectan la base imponible del IGV</c>
+<c id="50" item="no" global="si">Cargos globales que no afectan la base imponible del IGV</c>
+<c id="51" item="no" global="si">Percepción venta interna</c>
+<c id="52" item="no" global="si">Percepción a la adquisición de combustible</c>
+<c id="53" item="no" global="si">Percepción realizada al agente de percepción con tasa especial</c>
+<c id="61" item="no" global="si">Deducción de Retención de renta por anticipos</c>
+<c id="62" item="no" global="si">Retencion del IGV</c>
+<c id="63" item="no" global="si">Retención de renta de segunda categoría</c>
+</l>

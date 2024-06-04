@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="10" igv="1">Gravado - Operación Onerosa</c>
+<c id="11" gra="1">Gravado – Retiro por premio</c>
+<c id="12" gra="1">Gravado – Retiro por donación</c>
+<c id="13" gra="1">Gravado – Retiro </c>
+<c id="14" gra="1">Gravado – Retiro por publicidad</c>
+<c id="15" gra="1">Gravado – Bonificaciones</c>
+<c id="16" gra="1">Gravado – Retiro por entrega a trabajadores</c>
+<c id="17" iva="1" gra="1">Gravado - IVAP</c>
+<c id="20" exo="1">Exonerado - Operación Onerosa</c>
+<c id="21" gra="1">Exonerado - Transferencia gratuita</c>
+<c id="30" ina="1">Inafecto - Operación Onerosa</c>
+<c id="31" gra="1">Inafecto – Retiro por Bonificación</c>
+<c id="32" gra="1">Inafecto – Retiro</c>
+<c id="33" gra="1">Inafecto – Retiro por Muestras Médicas</c>
+<c id="34" gra="1">Inafecto - Retiro por Convenio Colectivo</c>
+<c id="35" gra="1">Inafecto – Retiro por premio</c>
+<c id="36" gra="1">Inafecto - Retiro por publicidad</c>
+<c id="37" gra="1">Inafecto - Transferencia gratuita</c>
+<c id="40" exp="1" gra="1">Exportación</c>
+</l>

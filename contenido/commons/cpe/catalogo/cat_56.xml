@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+    <c id="1">ENERGIA ELECTRICA</c>
+    <c id="2">AGUA</c>
+    <c id="3">CABLE</c>
+    <c id="4">INTERNET</c>
+    <c id="5">OTROS SERVICIOS REGULADOS POR OSIPTEL</c>
+    <c id="6">GAS NATURAL</c>
+    <c id="7">TELEFONIA</c>
+</l>

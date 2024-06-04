@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="1000">Monto en Letras</c>
+<c id="1002">Leyenda "TRANSFERENCIA GRATUITA DE UN BIEN Y/O SERVICIO PRESTADO GRATUITAMENTE"</c>
+<c id="2000">Leyenda "COMPROBANTE DE PERCEPCIÓN"</c>
+<c id="2001">Leyenda "BIENES TRANSFERIDOS EN LA AMAZONÍA REGIÓN SELVAPARA SER CONSUMIDOS EN LA MISMA"</c>
+<c id="2002">Leyenda "SERVICIOS PRESTADOS EN LA AMAZONÍA  REGIÓN SELVA PARA SER CONSUMIDOS EN LA MISMA"</c>
+<c id="2003">Leyenda "CONTRATOS DE CONSTRUCCIÓN EJECUTADOS  EN LA AMAZONÍA REGIÓN SELVA"</c>
+<c id="2004">Leyenda "Agencia de Viaje - Paquete turístico" </c>
+<c id="2005">Leyenda "Venta realizada por emisor itinerante"</c>
+<c id="2006">Leyenda: Operación sujeta a detracción</c>
+<c id="2007">Leyenda: Operación sujeta a IVAP</c>
+<c id="2010">Restitución Simplificado de Derechos Arancelarios</c>
+<c id="3000">Detracciones: CODIGO DE BB Y SS SUJETOS A DETRACCION</c>
+<c id="3001">Detracciones: NUMERO DE CTA EN EL BN</c>
+<c id="3002">Detracciones: Recursos Hidrobiológicos-Nombre y matrícula de la embarcación</c>
+<c id="3003">Detracciones: Recursos Hidrobiológicos-Tipo y cantidad de especie vendida</c>
+<c id="3004">Detracciones: Recursos Hidrobiológicos -Lugar de descarga</c>
+<c id="3005">Detracciones: Recursos Hidrobiológicos -Fecha de descarga</c>
+<c id="3006">Detracciones: Transporte Bienes vía terrestre – Numero Registro MTC</c>
+<c id="3007">Detracciones: Transporte Bienes vía terrestre – configuración vehicular</c>
+<c id="3008">Detracciones: Transporte Bienes vía terrestre – punto de origen</c>
+<c id="3009">Detracciones: Transporte Bienes vía terrestre – punto destino</c>
+<c id="3010">Detracciones: Transporte Bienes vía terrestre – valor referencial preliminar</c>
+<c id="4000">Beneficio hospedajes: Código País de emisión del pasaporte</c>
+<c id="4001">Beneficio hospedajes: Código País de residencia del sujeto no domiciliado</c>
+<c id="4002">Beneficio Hospedajes: Fecha de ingreso al país </c>
+<c id="4003">Beneficio Hospedajes: Fecha de ingreso al establecimiento</c>
+<c id="4004">Beneficio Hospedajes: Fecha de salida del establecimiento</c>
+<c id="4005">Beneficio Hospedajes: Número de días de permanencia</c>
+<c id="4006">Beneficio Hospedajes: Fecha de consumo </c>
+<c id="4007">Beneficio Hospedajes: Paquete turístico - Nombres y Apellidos del Huésped </c>
+<c id="4008">Beneficio Hospedajes: Paquete turístico – Tipo documento identidad del huésped  </c>
+<c id="4009">Beneficio Hospedajes: Paquete turístico – Numero de documento identidad de huésped </c>
+<c id="5000">Proveedores Estado: Número de Expediente</c>
+<c id="5001">Proveedores Estado : Código de unidad ejecutora</c>
+<c id="5002">Proveedores Estado : Nro. de proceso de selección</c>
+<c id="5003">Proveedores Estado : Nro. de contrato</c>
+<c id="6000">Comercialización de Oro :  Código Unico Concesión Minera</c>
+<c id="6001">Comercialización de Oro :  Nro. declaración compromiso</c>
+<c id="6002">Comercialización de Oro :  Nro. Reg. Especial .Comerci. Oro</c>
+<c id="6003">Comercialización de Oro :  Nro. Resolución que autoriza Planta de Beneficio</c>
+<c id="6004">Comercialización de Oro : Ley Mineral (% concent. oro)</c>
+<c id="7000">Primera venta de mercancia identificable entre usuarios de la zona comercial</c>
+<c id="7001">Venta exonerada del IGV-ISC-IPM. Prohibida la venta fuera de la zona comercial de Tacna</c>
+</l>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<l>
+	<cpe id="20" server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG" 
+	   context="/ol-ti-itemision-otroscpe" servlet="/retencionGEM"  
+	   mqSelector="SELECTOR.CPE_RETENCION"  
+	   backupContext="/ol-ti-itemision-otroscpe" 
+	   schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Retention-1.0.xsd" 
+	   xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegRetencion-1.0.3.xsl" 
+	   xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonRetencion-1.0.1.xsl">RETENCION</cpe>
+	   
+	<cpe id="40" server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG" 
+		context="/ol-ti-itemision-otroscpe" servlet="/percepcionGEM" 
+		mqSelector="SELECTOR.CPE_PERCEPCION" 
+		backupContext="/ol-ti-itemision-otroscpe" 
+		schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Perception-1.0.xsd" 
+		xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegPercepcion-1.0.2.xsl" 
+		xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonPercepcion-1.0.1.xsl">PERCEPCION</cpe>
+	
+	<cpe id="41" server="http://WLNegocioTributarioClusterContribuyente-CPEFGEMBackendBG" 
+		context="/ol-ti-itemision-otroscpe" servlet="/percepcionGEM" 
+		mqSelector="SELECTOR.CPE_PERCEPCION" 
+		backupContext="/ol-ti-itemision-otroscpe" 
+		schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Perception-1.0.xsd" 
+		xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegPercepcion-1.0.2.xsl" 
+		xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonPercepcion-1.0.1.xsl">PERCEPCION</cpe>
+	
+	<!-- es resumen -->
+	<cpe id="RR" server="http://DPgemOtrosCpeSendSummary" 
+		context="/ol-ti-itemision-otroscpe" servlet="/resumen" 
+		backupContext="/ol-ti-itemision-otroscpe" 
+		mqSelector="SELECTOR.CPE_PERCEPCION" 
+		schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-VoidedDocuments-1.0.xsd" 
+		xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegOtrosVoided-1.0.1.xsl" 
+		xmltojson="local:///commons/xsl/transformation/1.X/xmlOtrosVoidedToJson-1.0.0.xsl">RESUMEN</cpe>
+</l>

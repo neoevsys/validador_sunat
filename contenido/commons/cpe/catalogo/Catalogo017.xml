@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo017>
+<catalogo017>
+<item numero="01" >Venta lnterna</item>
+<item numero="02" >Exportacion</item>
+<item numero="03" >No Domiciliados</item>
+<item numero="04" >Venta Interna – Anticipos</item>
+<item numero="05" >Venta Itinerante </item>
+<item numero="06" >Factura Guia</item>
+<item numero="07" >Venta de Combustible liquido</item>
+<item numero="08" >Mantenimiento de vehiculos</item>
+<item numero="09" >Venta Arroz Pilado</item>
+<item numero="10" >Emision en el local del cliente</item>
+<item numero="11" >Factura – Comprobante de percepcion</item>
+
+</catalogo017>

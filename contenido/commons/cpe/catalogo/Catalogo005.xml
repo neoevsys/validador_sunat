@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo005>
+<!-- catalogo de impuesto selectivo -->
+<catalogo005>
+<item numero="1000" UN_ECE_5153="VAT">IGV IMPUESTO GENERAL A LAS VENTAS</item>
+<item numero="1016" UN_ECE_5153="VAT">IVAP IMPUESTO A LA VENTA DE ARROZ PILADO</item>
+<item numero="2000" UN_ECE_5153="EXC">ISC IMPUESTO SELECTIVO AL CONSUMO</item>
+<item numero="9999" UN_ECE_5153="OTH">OTROS CONCEPTOS DE PAGO</item>
+
+</catalogo005>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE l>
+<!-- catalogo de tipos de documento de identidad -->
+<l>
+<c id="0">DOC.TRIB.NO.DOM.SIN.RUC</c>
+<c id="1">DOC. NACIONAL DE IDENTIDAD</c>
+<c id="4">CARNET DE EXTRANJERIA</c>
+<c id="6">REG. UNICO DE CONTRIBUYENTES</c>
+<c id="7">PASAPORTE</c>
+<c id="A">CED. DIPLOMATICA DE IDENTIDAD</c>
+<c id="B">DOC.IDENT.PAIS.RESIDENCIA-NO.D</c>
+<c id="C">Tax Identification Number - TIN – Doc Trib PP.NN</c>
+<c id="D">Identification Number - IN – Doc Trib PP. JJ</c>
+<c id="E">TAM- Tarjeta Andina de Migración</c>
+<c id="F">Permiso Temporal de Permanencia - PTP</c>
+<c id="G">Salvoconducto</c>
+</l>

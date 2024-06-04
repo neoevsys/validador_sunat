@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE l>
+<!-- catalogo de impuesto-->
+<l>
+<c id="01">Factura</c>
+<c id="03">Boleta de venta</c>
+<c id="04">Liquidación de compra</c>
+<c id="05">Boletos de Transporte Aéreo que emiten las Compañías de Aviación Comercial por el servicio de transporte aéreo regular de pasajeros, emitido de manera manual, mecanizada o por medios electrónicos (BME)</c>
+<c id="06">Carta de porte aéreo</c>
+<c id="07">Nota de crédito</c>
+<c id="08">Nota de débito</c>
+<c id="09">Guía de remisión remitente</c>
+<c id="11">Póliza emitida por las Bolsas de Valores</c>
+<c id="12">Ticket de máquina registradora</c>
+<c id="13">Documento emitido por bancos, instituciones financieras, crediticias y de seguros que se encuentren bajo el control de la Superintendencia de Banca y Seguros</c>
+<c id="14">Recibo servicios públicos</c>
+<c id="15">Boletos emitidos por el servicio de transporte terrestre regular urbano de pasajeros y el ferroviario público de pasajeros prestado en vía férrea local</c>
+<c id="16">Boleto de viaje emitido por las empresas de transporte público interprovincial de pasajeros</c>
+<c id="18">Documentos emitidos por las AFP</c>
+<c id="19">Boleto por atracciones y espectáculos públicos</c>
+<c id="20">Comprobante de retención</c>
+<c id="21">Conocimiento de embarque por el servicio de transporte de carga marítima</c>
+<c id="23">Pólizas de Adjudicación por remate o adjudicación de bienes</c>
+<c id="24">Certificado de pago de regalías emitidas por PERUPETRO S.A.</c>
+<c id="28">Etiquetas por el pago de la Tarifa Unificada de Uso de Aeropuerto – TUUA</c>
+<c id="29">Documentos emitidos por la COFOPRI</c>
+<c id="30">Documentos emitidos por las empresas que desempeñan el rol adquirente en los sistemas de pago mediante tarjetas de crédito y débito, emitidas por bancos e instituciones financieras o crediticias, domiciliados o no en el país</c>
+<c id="31">Guía de remisión transportista</c>
+<c id="32">Documentos emitidos por recaudadoras de la Garantía de Red Principal</c>
+<c id="34">Documento del Operador</c>
+<c id="35">Documento del Partícipe</c>
+<c id="36">Recibo de Distribución de Gas Natural</c>
+<c id="37">Documentos que emitan los concesionarios del servicio de revisiones técnicas</c>
+<c id="40">Comprobante de Percepción</c>
+<c id="41">Comprobante de Percepción – Venta interna ( físico - formato impreso)</c>
+<c id="42">Documentos emitidos por los adq. en los sistemas de pago por tarj. de crédito emitidas por ellas mismas</c>
+<c id="43">Boleto de compañías de aviación transporte aéreo no regular</c>
+<c id="45">Documentos emitidos por centros educativos y culturales, universidades, asociaciones y fundaciones</c>
+<c id="55">BVME para transporte ferroviario de pasajeros</c>
+<c id="56">Comprobante de pago SEAE</c>
+<c id="71">Guía de remisión remitente complementaria</c>
+<c id="72">Guía de remisión transportista complementaria</c>
+<c id="87">Nota de crédito especial</c>
+<c id="88">Nota de débito especial</c>
+<c id="RC">Resumen diario</c>
+<c id="RA">Comunicación de baja</c>
+<c id="RR">Resumen de reversión</c>
+</l>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="PUB" ubigeo = "200801">Bayóvar</c>
+<c id="CLL" ubigeo = "070101">Callao</c>
+<c id="CON" ubigeo = "150119">Conchán</c>
+<c id="CHY" ubigeo = "150605">Chancay</c>
+<c id="CHM" ubigeo = "021801">Chimbote</c>
+<c id="EEN" ubigeo = "140113">Eten</c>
+<c id="HCO" ubigeo = "150801">Huacho</c>
+<c id="HUY" ubigeo = "021101">Huarmey</c>
+<c id="ILQ" ubigeo = "180301">Ilo</c>
+<c id="IQT" ubigeo = "160101">Iquitos</c>
+<c id="MRI" ubigeo = "040701">Matarani</c>
+<c id="PAI" ubigeo = "200501">Paita</c>
+<c id="PIO" ubigeo = "110505">Pisco</c>
+<c id="PCL" ubigeo = "250101">Pucallpa</c>
+<c id="PUN" ubigeo = "210101">Puno</c>
+<c id="SVY" ubigeo = "130109">Salaverry</c>
+<c id="SNX" ubigeo = "110304">San Nicolas</c>
+<c id="SUP" ubigeo = "150204">Supe</c>
+<c id="TYL" ubigeo = "200701">Talara</c>
+<c id="YMS" ubigeo = "160201">Yurimaguas</c>
+<c id="ZOR" ubigeo = "240103">Zorritos</c>
+</l>

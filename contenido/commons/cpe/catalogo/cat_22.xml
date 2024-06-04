@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01" tasa="2">PERCEPCION VENTA INTERNA</c>
+<c id="02" tasa="1">PERCEPCION A LA ADQUISICION DE COMBUSTIBLE</c>
+<c id="03" tasa="0.5">PERCEPCION REALIZADA AL AGENTE DE PERCEPCION CON TASA ESPECIAL</c>
+</l>

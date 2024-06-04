@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE l>
+<!-- catalogo de  Codigo de tipo de direccion-->
+<l>
+<c id="01">Punto de venta</c>
+<c id="02">Producción</c>
+<c id="03">Extracción</c>
+<c id="04">Explotación</c>
+<c id="05">Ninguno</c>
+</l>

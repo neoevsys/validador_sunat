@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="001" tasa="10">Azúcar y melaza de caña</c>
+<c id="002" tasa="10">Arroz</c>
+<c id="003" tasa="10">Alcohol etílico</c>
+<c id="004" tasa="4">Recursos hidrobiológicos</c>
+<c id="005" tasa="4">Maíz amarillo duro</c>
+<c id="007" tasa="10">Caña de azúcar</c>
+<c id="008" tasa="4">Madera</c>
+<c id="009" tasa="10">Arena y piedra.</c>
+<c id="010" tasa="15">Residuos, subproductos, desechos, recortes y desperdicios</c>
+<c id="011" tasa="15">Bienes gravados con el IGV, o renuncia a la exoneración</c>
+<c id="012" tasa="10">Intermediación laboral y tercerización</c>
+<c id="013" tasa="10">Animales vivos</c>
+<c id="014" tasa="4">Carnes y despojos comestibles</c>
+<c id="015" tasa="10">Abonos, cueros y pieles de origen animal</c>
+<c id="016" tasa="4">Aceite de pescado</c>
+<c id="017" tasa="4">Harina, polvo y “pellets” de pescado, crustáceos, moluscos y demás invertebrados acuáticos</c>
+<c id="019" tasa="10">Arrendamiento de bienes muebles</c>
+<c id="020" tasa="10">Mantenimiento y reparación de bienes muebles</c>
+<c id="021" tasa="10">Movimiento de carga</c>
+<c id="022" tasa="10">Otros servicios empresariales</c>
+<c id="023" tasa="10">Leche</c>
+<c id="024" tasa="10">Comisión mercantil</c>
+<c id="025" tasa="10">Fabricación de bienes por encargo</c>
+<c id="026" tasa="10">Servicio de transporte de personas</c>
+<c id="027" tasa="4">Servicio de transporte de carga</c>
+<c id="028" tasa="4">Transporte de pasajeros</c>
+<c id="030" tasa="4">Contratos de construcción</c>
+<c id="031" tasa="10">Oro gravado con el IGV</c>
+<c id="032" tasa="10">Paprika y otros frutos de los generos capsicum o pimienta</c>
+<c id="034" tasa="10">Minerales metálicos no auríferos</c>
+<c id="035" tasa="1.5">Bienes exonerados del IGV</c>
+<c id="036" tasa="1.5">Oro y demás minerales metálicos exonerados del IGV</c>
+<c id="037" tasa="10">Demás servicios gravados con el IGV</c>
+<c id="039" tasa="10">Minerales no metálicos</c>
+<c id="040" tasa="4">Bien inmueble gravado con IGV</c>
+<c id="041" tasa="15">Plomo</c>
+<c id="099" tasa="8">Ley 30737</c>
+</l>

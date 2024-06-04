@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01">Venta</c>
+<c id="02">Compra</c>
+<c id="03">Venta con entrega a terceros</c>
+<c id="04">Traslado entre establecimientos de la misma empresa</c>
+<c id="05">Consignacion</c>
+<c id="06">Devolucion</c>
+<c id="07">Recojo de bienes transformados</c>
+<c id="08">Importación</c>
+<c id="09">Exportación</c>
+<c id="13">Otros</c>
+<c id="14">Venta sujeta a confirmación del comprador</c>
+<c id="17">Traslado de bienes para transformación</c>
+<c id="18">Traslado emisor itinerante CP</c>
+</l>

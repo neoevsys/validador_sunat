@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01">Anulación de la operación</c>
+<c id="02">Anulación por error en el RUC</c>
+<c id="03">Corrección por error en la descripción</c>
+<c id="04">Descuento global</c>
+<c id="05">Descuento por ítem</c>
+<c id="06">Devolución total</c>
+<c id="07">Devolución por ítem</c>
+<c id="08">Bonificación</c>
+<c id="09">Disminución en el valor</c>
+<c id="10">Otros Conceptos </c>
+<c id="11">Ajustes de operaciones de exportación</c>
+<c id="12">Ajustes afectos al IVAP</c>
+<c id="13">Ajustes – montos y/o fechas de pago</c>
+</l>

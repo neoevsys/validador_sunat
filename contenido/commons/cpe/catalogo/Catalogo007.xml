@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo007>
+<catalogo007>
+<item numero="10" >Gravado -  Operación Onerosa</item>
+<item numero="11" >Gravado – Retiro por premio</item>
+<item numero="12" >Gravado – Retiro por donacion</item>
+<item numero="13" >Gravado – Retiro </item>
+<item numero="14" >Gravado – Retiro por publicidad</item>
+<item numero="15" >Gravado – Bonificaciones</item>
+<item numero="16" >Gravado – Retiro por entrega a trabajadores</item>
+<item numero="17" >Gravado – IVAP</item>
+<item numero="20" >Exonerado - Operación Onerosa</item>
+<item numero="21" >Exonerado – Transferencia Gratuita</item>
+<item numero="30" >Inafecto - Operación Onerosa</item>
+<item numero="31" >Inafecto – Retiro por Bonificacion</item>
+<item numero="32" >Inafecto – Retiro</item>
+<item numero="33" >Inafecto – Retiro por Muestras Medicas</item>
+<item numero="34" >Inafecto -  Retiro por Convenio Colectivo</item>
+<item numero="35" >Inafecto – Retiro por premio</item>
+<item numero="36" >Inafecto -  Retiro por publicidad</item>
+<item numero="40" >Exportacion</item>
+
+</catalogo007>

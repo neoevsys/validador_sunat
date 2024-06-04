@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo014>
+<catalogo014>
+<item numero="1001" >Total valor de venta - operaciones gravadas</item>
+<item numero="1002" >Total valor de venta - operaciones inafectas</item>
+<item numero="1003" >Total valor de venta - operaciones exoneradas</item>
+<item numero="1004" >Total valor de venta – Operaciones gratuitas</item>
+<item numero="1005" >Sub total de venta</item>
+<item numero="2001" >Percepciones</item>
+<item numero="2002" >Retenciones</item>
+<item numero="2003" >Detracciones</item>
+<item numero="2004" >Bonificaciones</item>
+<item numero="2005" >Total descuentos</item>
+
+</catalogo014>

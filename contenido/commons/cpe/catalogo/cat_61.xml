@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01" gre-r = "1" gre-t = "1">Factura</c>
+<c id="03" gre-r = "1" gre-t = "1">Boleta de Venta</c>
+<c id="04" gre-r = "1" gre-t = "1">Liquidación de Compra</c>
+<c id="09" gre-r = "1" gre-t = "1">Guía de Remisión Remitente</c>
+<c id="12" gre-r = "1" gre-t = "1">Ticket o cinta emitido por máquina registradora</c>
+<c id="31" gre-r = "0" gre-t = "1">Guía de Remisión Transportista</c>
+<c id="48" gre-r = "1" gre-t = "1">Comprobante de Operaciones – Ley N° 29972</c>
+<c id="49" gre-r = "1" gre-t = "0">Constancia de Depósito - IVAP (Ley 28211)</c>
+<c id="50" gre-r = "1" gre-t = "1">Declaración Aduanera de Mercancías</c>
+<c id="52" gre-r = "1" gre-t = "1">Declaración Simplificada (DS)</c>
+<c id="65" gre-r = "0" gre-t = "1">Autorización de Circulación para transportar MATPEL – Callao</c>
+<c id="66" gre-r = "0" gre-t = "1">Autorización de Circulación para transporte de carga y mercancías en Lima Metropolitana</c>
+<c id="67" gre-r = "0" gre-t = "1">Permiso de Operación Especial para el servicio de transporte de MATPEL - MTC</c>
+<c id="68" gre-r = "0" gre-t = "1">Habilitación Sanitaria de Transporte Terrestre de Productos Pesqueros y Acuícolas</c>
+<c id="69" gre-r = "0" gre-t = "1">Permiso / Autorización de operación de transporte de mercancías</c>
+<c id="71" gre-r = "1" gre-t = "0">Resolución de Adjudicación de bienes – SUNAT</c>
+<c id="72" gre-r = "1" gre-t = "0">Resolución de Comiso de bienes – SUNAT</c>
+<c id="73" gre-r = "1" gre-t = "0">Guía de Transporte Forestal o de Fauna - SERFOR</c>
+<c id="74" gre-r = "1" gre-t = "0">Guía de Tránsito – SUCAMEC</c>
+<c id="75" gre-r = "1" gre-t = "0">Autorización para operar como empresa de Saneamiento Ambiental – MINSA - </c>
+<c id="76" gre-r = "1" gre-t = "0">Autorización para manejo y recojo de residuos sólidos peligrosos y no peligrosos</c>
+<c id="77" gre-r = "1" gre-t = "0">Certificado fitosanitario la movilización de plantas, productos vegetales, y otros artículos reglamentados </c>
+<c id="78" gre-r = "1" gre-t = "0">Registro Único de Usuarios y Transportistas de Alcohol Etílico</c>
+<c id="80" gre-r = "1" gre-t = "1">Constancia de Depósito – Detracción</c>
+<c id="81" gre-r = "1" gre-t = "0">Código de autorización emitida por el SCOP</c>
+<c id="82" gre-r = "0" gre-t = "1">Declaración jurada de mudanza</c>
+</l>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01">Venta lnterna</c>
+<c id="02">Exportación</c>
+<c id="03">No Domiciliados</c>
+<c id="04">Venta Interna – Anticipos</c>
+<c id="05">Venta Itinerante </c>
+<c id="06">Factura Guía</c>
+<c id="07">Venta Arroz Pilado</c>
+<c id="08">Factura - Comprobante de Percepción</c>
+<c id="10">Factura - Guía remitente</c>
+<c id="11">Factura - Guía transportista</c>
+<c id="12">Boleta de venta – Comprobante de Percepción.</c>
+<c id="13">Gasto Deducible Persona Natural</c>
+<c id="14">Exportación de servicios – prestación de servicios de hospedaje No Dom</c>
+<c id="15">Exportación de servicios – Transporte de navieras</c>
+<c id="16">Exportación de servicios – servicios  a naves y aeronaves de bandera extranjera</c>
+<c id="17">Exportación de servicios – RES</c>
+<c id="18">Exportación de servicios  - Servicios que conformen un Paquete Turístico</c>
+<c id="19">Exportación de servicios – Servicios complementarios al transporte de carga</c>
+<c id="20">Exportación de servicios – Suministro de energía eléctrica a favor de sujetos domiciliados en ZED</c>
+<c id="21">Exportación de servicios – Prestación servicios realizados parcialmente en el extranjero</c>
+</l>

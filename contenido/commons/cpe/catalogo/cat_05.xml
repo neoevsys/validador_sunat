@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE l>
+<!-- catalogo de impuesto-->
+<l>
+<c id="1000" UN_ECE_5153="VAT" categoria = "S" name="IGV">IGV IMPUESTO GENERAL A LAS VENTAS</c>
+<c id="1016" UN_ECE_5153="VAT" categoria = "S" name="IVAP">IMPUESTO A LA VENTA ARROZ PILADO</c>
+<c id="2000" UN_ECE_5153="EXC" categoria = "S" name="ISC">ISC IMPUESTO SELECTIVO AL CONSUMO</c>
+<c id="9995" UN_ECE_5153="FRE" categoria = "G" name="EXP">Operaciones de Exportacion</c>
+<c id="9996" UN_ECE_5153="FRE" categoria = "Z" name="GRA">Operaciones Gratuitas</c>
+<c id="9997" UN_ECE_5153="VAT" categoria = "E" name="EXO">Operaciones Exoneradas</c>
+<c id="9998" UN_ECE_5153="FRE" categoria = "O" name="INA">Operaciones Inafectas</c>
+<c id="9999" UN_ECE_5153="OTH" categoria = "S" name="OTROS">OTROS CONCEPTOS DE PAGO</c>
+<c id="7152" UN_ECE_5153="OTH" categoria = "S" name="ICBPER">IMPUESTO A LA BOLSA PLASTICA</c>
+<c id="3000" UN_ECE_5153="TOX" categoria = "S" name="IR">Impuesto a la Renta</c>
+</l>

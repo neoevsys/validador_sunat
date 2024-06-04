@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="01">Factura – emitida para corregir error en el RUC</c>
+<c id="02">Factura – emitida por anticipos</c>
+<c id="03">Boleta de Venta – emitida por anticipos</c>
+<c id="04">Ticket de Salida - ENAPU </c>
+<c id="05">Código SCOP</c>
+<c id="06">Factura electrónica remitente</c>
+<c id="07">Guia de remisión remitente</c>
+<c id="08">Declaración de salida del depósito franco </c>
+<c id="09">Declaración simplificada de importación </c>
+<c id="10">Liquidación de compra - emitida por anticipos</c>
+<c id="99">Otros</c>
+</l>

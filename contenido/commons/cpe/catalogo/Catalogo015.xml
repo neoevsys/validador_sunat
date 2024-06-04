@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo015>
+<catalogo015>
+<item numero="1001">TOTAL VALOR DE VENTA NETO - OPERACIONES GRAVADAS</item>
+<item numero="1000" >Monto en Letras</item>
+<item numero="1002" >Leyenda "TRANSFERENCIA GRATUITA DE UN BIEN Y/O SERVICIO PRESTADO GRATUITAMENTE"</item>
+<item numero="2000" >Leyenda "COMPROBANTE DE PERCEPCION"</item>
+<item numero="2001" >Leyenda "BIENES TRANSFERIDOS EN LA AMAZONIA REGION SELVAPARA SER CONSUMIDOS EN LA MISMA"</item>
+<item numero="2002" >Leyenda "SERVICIOS PRESTADOS EN LA AMAZONIA  REGION SELVA PARA SER CONSUMIDOS EN LA MISMA"</item>
+<item numero="2003" >Leyenda "CONTRATOS DE CONSTRUCCION EJECUTADOS  EN LA AMAZONiA REGION SELVA"</item>
+<item numero="2004" >Leyenda "Agencia de Viaje - Paquete turistico" </item>
+<item numero="3000" >Detracciones: CODIGO DE BB Y SS SUJETOS A DETRACCION</item>
+<item numero="3001" >Detracciones: NUMERO DE CTA EN EL BN </item>
+<item numero="3002" >Detracciones: Recursos Hidrobiologicos - Nombre y matricula de la embarcacion</item>
+<item numero="3003" >Detracciones: Recursos Hidrobiologicos - Tipo y cantidad de especie vendida</item>
+<item numero="3004" >Detracciones: Recursos Hidrobiologicos - Lugar de descarga</item>
+<item numero="3005" >Detracciones: Recursos Hidrobiologicos - Fecha de descarga</item>
+<item numero="3006" >Detracciones: Transporte Bienes via terrestre – Numero Registro MTC</item>
+<item numero="3007" >Detracciones: Transporte Bienes via terrestre – configuracion vehicular</item>
+<item numero="3008" >Detracciones: Transporte Bienes via terrestre – punto de origen</item>
+<item numero="3009" >Detracciones: Transporte Bienes via terrestre – punto destino</item>
+<item numero="3010" >Detracciones: Transporte Bienes via terrestre – valor referencial preliminar</item>
+<item numero="4000" >Beneficio hospedajes: Codigo Pais de emision del pasaporte</item>
+<item numero="4001" >Beneficio hospedajes: Codigo Pais de residencia del sujeto no domiciliado</item>
+<item numero="4002" >Beneficio Hospedajes: Fecha de ingreso al pais </item>
+<item numero="4003" >Beneficio Hospedajes: Fecha de ingreso al establecimiento</item>
+<item numero="4004" >Beneficio Hospedajes: Fecha de salida del establecimiento</item>
+<item numero="4005" >Beneficio Hospedajes: Número de dias de permanencia</item>
+<item numero="4006" >Beneficio Hospedajes: Fecha de consumo </item>
+<item numero="4007" >Beneficio Hospedajes: Paquete turistico - Nombres y Apellidos del Huesped </item>
+<item numero="4008" >Beneficio Hospedajes: Paquete turistico – Tipo documento identidad del huesped  </item>
+<item numero="4009" >Beneficio Hospedajes: Paquete turistico – Numero de documento identidad de huesped </item>
+
+</catalogo015>

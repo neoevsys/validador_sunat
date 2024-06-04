@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+    <cpe id="01" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Invoice-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegFactura-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonFactura-1.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/1.X/xmlToJsonFactura-error-1.0.0.xsl"
+        proceso="25">FACTURA</cpe>
+
+	<!-- 
+    <cpe id="01" ubl="2.1" customizationID="1.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegFactura-2.0.0.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonFactura-2.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonFactura-error-1.0.0.xsl"
+         proceso="25">FACTURA</cpe>
+    -->
+     
+     <cpe id="01" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegFactura-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonFactura-2.0.1.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonFactura-error-2.0.1.xsl"
+         proceso="25">FACTURA</cpe>
+	
+    <cpe id="03" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Invoice-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegBoleta-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonBoleta-1.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/1.X/xmlToJsonFactura-error-1.0.0.xsl"
+        proceso="25">BOLETA</cpe>
+
+    <cpe id="03" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegBoleta-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonBoleta-2.0.1.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonFactura-error-2.0.1.xsl"
+         proceso="25">BOLETA</cpe>
+
+     <cpe id="04" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-SelfBilledInvoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegLiquidacion-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonLiquidacion-2.0.1.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonFactura-error-2.0.1.xsl"
+         proceso="25">LIQUIDACION</cpe>
+     
+     <!-- 
+     <cpe id="03" ubl="2.1" customizationID="1.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegBoleta-2.0.0.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonBoleta-2.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/1.X/xmlToJsonFactura-error-1.0.0.xsl"
+         proceso="25">BOLETA</cpe>
+	-->
+	
+    <cpe id="07" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-CreditNote-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegNC-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonNotaCredito-1.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/1.X/xmlToJsonNotaCredito-error-1.0.0.xsl"
+        proceso="25">
+        NOTA_CREDITO
+    </cpe>
+
+	<!-- 
+    <cpe id="07" ubl="2.1" customizationID="1.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-CreditNote-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegNC-2.0.0.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonNotaCredito-2.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonNotaCredito-error-1.0.0.xsl"
+         proceso="25">
+         NOTA_CREDITO
+     </cpe>         
+	-->
+     <cpe id="07" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-CreditNote-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegNC-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonNotaCredito-2.0.1.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonNotaCredito-error-2.0.1.xsl"
+         proceso="25">
+         NOTA_CREDITO
+     </cpe>
+
+    <cpe id="08" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-DebitNote-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegND-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonNotaDebito-1.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/1.X/xmlToJsonNotaDebito-error-1.0.0.xsl"
+        proceso="25">
+        NOTA_DEBITO
+    </cpe>
+	
+	<!-- 
+    <cpe id="08" ubl="2.1" customizationID="1.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-DebitNote-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegND-2.0.0.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonNotaDebito-2.0.0.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonNotaDebito-error-1.0.0.xsl"
+         proceso="25">
+         NOTA_DEBITO
+     </cpe>
+	-->
+	
+     <cpe id="08" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-DebitNote-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegND-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonNotaDebito-2.0.1.xsl"
+        xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonNotaDebito-error-2.0.1.xsl"
+         proceso="25">
+         NOTA_DEBITO
+     </cpe>
+
+    <cpe id="14" ubl="2.1" customizationID="2.0"
+        schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+        xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegServicioPublico-2.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonServicioPublico-2.0.1.xsl"
+        proceso="25">SERVICIOS_PUBLICOS</cpe>
+
+    <!-- Guia de remision -->
+    <cpe id="09" ubl="2.1" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-DespatchAdvice-2.1.xsd"
+        xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegGuiaRemitente-2.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonGre-2.0.1.xsl">GUIA_REMITENTE</cpe>
+    
+    <!--
+    <cpe id="30" ubl="2.1" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-DespatchAdvice-2.1.xsd"
+        xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegGuiaRemitente-2.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonGre-2.0.0.xsl">GUIA_TRANSPORTISTA</cpe>
+    -->
+    
+    <!-- Resumen de boletas y sus notas>
+    Se elimina por pase PAS20171U210300055
+    <cpe id="RC" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-SummaryDocuments-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegSummary-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlBillSummaryToJson-1.0.0.xsl"
+        proceso="26">RESUMEN_BOLETAS</cpe -->
+
+    <cpe id="RC" ubl="2.0" customizationID="1.1"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-SummaryDocuments-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegSummary-1.1.0.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlBillSummaryToJson-1.1.0.xsl"
+        isResumenDetallado="true"
+        proceso="26">RESUMEN_BOLETAS</cpe>
+
+    <cpe id="RA" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-VoidedDocuments-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegSummaryVoided-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlSummaryVoidedToJson-1.0.0.xsl">RESUMEN_ANULADOS</cpe>
+
+
+    <!-- Retenciones y percepciones -->
+    <cpe id="20" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Retention-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegRetencion-1.0.3.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonRetencion-1.0.1.xsl">RETENCION</cpe>
+
+    <cpe id="40" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Perception-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegPercepcion-1.0.2.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonPercepcion-1.0.1.xsl">PERCEPCION</cpe>
+
+    <cpe id="41" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-Perception-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegPercepcion-1.0.2.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlToJsonPercepcion-1.0.1.xsl">PERCEPCION</cpe>
+
+    <!-- es resumen -->
+    <cpe id="RR" ubl="2.0" customizationID="1.0"
+        schema="local:///commons/schemas/UBL/2.0/maindoc/UBLPE-VoidedDocuments-1.0.xsd"
+        xslvalidator="local:///commons/xsl/validation/1.X/ValidaExprRegOtrosVoided-1.0.1.xsl"
+        xmltojson="local:///commons/xsl/transformation/1.X/xmlOtrosVoidedToJson-1.0.0.xsl">RESUMEN</cpe>
+         
+    <cpe id="30" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegAdqOtros-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonAdqOtros-2.0.1.xsl"
+		 xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonAdqOtros-2.0.1.xsl"
+         proceso="25">ADQUIRIENTE_OTRAS</cpe>
+         
+    <cpe id="34" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegOperador-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonOperador-2.0.1.xsl"
+         xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonOperador-2.0.1.xsl"
+        proceso="25">OPERADOR</cpe>
+         
+    <cpe id="42" ubl="2.1" customizationID="2.0"
+         schema="local:///commons/schemas/UBL/2.1/maindoc/UBL-Invoice-2.1.xsd"
+         xslvalidator="local:///commons/xsl/validation/2.X/ValidaExprRegAdquiriente-2.0.1.xsl"
+         xmltojson="local:///commons/xsl/transformation/2.X/xmlToJsonAdquiriente-2.0.1.xsl"
+         xmltojsonError="local:///commons/xsl/transformation/2.X/xmlToJsonAdquiriente-2.0.1.xsl"
+         proceso="25">ADQUIRIENTE</cpe>
+
+</l>

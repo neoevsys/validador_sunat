@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo741>
+<catalogo741>
+<item numero="1001">TOTAL VALOR DE VENTA NETO - OPERACIONES GRAVADAS</item>
+<item numero="1002">TOTAL VALOR DE VENTA NETO - OPERACIONES NO GRAVADAS</item>
+<item numero="1003">TOTAL VALOR DE VENTA NETO - OPERACIONES EXONERADAS</item>
+<item numero="1004">TOTAL DE VENTA DE OPERACIONES GRATUITAS</item>
+<item numero="1005">SUBTOTAL DE VENTAS</item>
+<item numero="2001">PERCEPCIONES</item>
+<item numero="2002">RETENCIONES</item>
+<item numero="2003">DETRACCIONES</item>
+<item numero="2004">BONIFICACIONES</item>
+<item numero="2005">TOTAL DESCUENTOS</item>
+<item numero="2005">TOTAL DESCUENTOS</item>
+<item numero="3001">FISE (LEY 29852) FONDO INCLUSION SOCIAL ENERGETICO</item>
+
+</catalogo741>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE l>
+<l>
+<c id="1000">Total valor de venta - operaciones exportadas</c>
+<c id="1001">Total valor de venta - operaciones gravadas</c>
+<c id="1002">Total valor de venta - operaciones inafectas</c>
+<c id="1003">Total valor de venta - operaciones exoneradas</c>
+<c id="1004">Total valor de venta – Operaciones gratuitas</c>
+<c id="1005">Sub total de venta</c>
+<c id="2001">Percepciones</c>
+<c id="2002">Retenciones</c>
+<c id="2003">Detracciones</c>
+<c id="2004">Bonificaciones</c>
+<c id="2005">Total descuentos</c>
+<c id="3001">FISE (Ley 29852) Fondo Inclusión Social Energético</c>
+</l>

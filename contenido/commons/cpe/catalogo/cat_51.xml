@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE l>
+<l>
+<c id="0101" factura = "1" boleta="1">Venta interna</c>
+<c id="0112" factura = "1" boleta="0">Venta Interna - Sustenta Gastos Deducibles Persona Natural</c>
+<c id="0113" factura = "0" boleta="1">Venta Interna - NRUS</c>
+<c id="0200" factura = "1" boleta="1">Exportación de Bienes</c>
+<c id="0201" factura = "1" boleta="1">Exportación de Servicios – Prestación servicios realizados íntegramente en el país</c>
+<c id="0202" factura = "1" boleta="0">Exportación de Servicios – Prestación de servicios de hospedaje No Domiciliado</c>
+<c id="0203" factura = "1" boleta="1">Exportación de Servicios – Transporte de navieras</c>
+<c id="0204" factura = "1" boleta="1">Exportación de Servicios – Servicios  a naves y aeronaves de bandera extranjera</c>
+<c id="0205" factura = "1" boleta="0">Exportación de Servicios  - Servicios que conformen un Paquete Turístico</c>
+<c id="0206" factura = "1" boleta="1">Exportación de Servicios – Servicios complementarios al transporte de carga</c>
+<c id="0207" factura = "1" boleta="1">Exportación de Servicios – Suministro de energía eléctrica a favor de sujetos domiciliados en ZED</c>
+<c id="0208" factura = "1" boleta="1">Exportación de Servicios – Prestación servicios realizados parcialmente en el extranjero</c>
+<c id="0301" factura = "1" boleta="1">Operaciones con Carta de porte aéreo (emitidas en el ámbito nacional)</c>
+<c id="0302" factura = "1" boleta="1">Operaciones de Transporte ferroviario de pasajeros</c>
+<c id="0303" factura = "0" boleta="0">Operaciones de Pago de regalía petrolera</c>
+<c id="0401" factura = "1" boleta="1">Ventas no domiciliados que no califican como exportacion</c>
+<c id="1001" factura = "1" boleta="1">Operación Sujeta a Detracción</c>
+<c id="1002" factura = "1" boleta="1">Operación Sujeta a Detracción- Recursos Hidrobiológicos</c>
+<c id="1003" factura = "1" boleta="1">Operación Sujeta a Detracción- Servicios de Transporte Pasajeros</c>
+<c id="1004" factura = "1" boleta="1">Operación Sujeta a Detracción- Servicios de Transporte Carga</c>
+<c id="2001" factura = "1" boleta="1">Operación Sujeta a Percepción</c>
+<c id="2100" factura = "1" boleta="1">Créditos a empresas</c>
+<c id="2101" factura = "1" boleta="1">Créditos de consumo revolvente</c>
+<c id="2102" factura = "1" boleta="1">Créditos de consumo no revolvente</c>
+<c id="2103" factura = "1" boleta="1">Otras operaciones no gravadas - empresas del sistema financiero</c>
+<c id="2104" factura = "1" boleta="1">Otras operaciones no gravadas - empresas del sistema de seguros</c>
+
+<c id="2105" factura = "0" boleta="1">Comprobante emitido por AFP</c>
+
+<c id="0501" factura = "0" liquidacion="1">Compra interna</c>
+<c id="0502" factura = "0" liquidacion="1">Anticipos</c>
+<c id="0503" factura = "0" liquidacion="1">Compra de oro</c>
+</l>
+

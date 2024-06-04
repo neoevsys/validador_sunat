@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<l>
+
+	<cpe id="20" 
+		xmltojson="local:///sistemaOtrosCpeGem/receptor/sendBill/xmlToJsonRetencion.xsl"
+		jsontoxml="local:///sistemaOtrosCpePortal/saveOtrosCpe/jsonxToXmlRetencion.xsl">RETENCION</cpe>
+	
+	<cpe id="40" 
+		xmltojson="local:///sistemaOtrosCpeGem/receptor/sendBill/xmlToJsonPercepcion.xsl"
+		jsontoxml="local:///sistemaOtrosCpePortal/saveOtrosCpe/jsonxToXmlPercepcion.xsl">PERCEPCION</cpe>
+	
+</l>
